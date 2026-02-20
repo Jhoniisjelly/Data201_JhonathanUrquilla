@@ -83,6 +83,6 @@ Create a simple table (example topics):
 
 ## 11. Footnote
 
-[^1]: it is recommened to at least have these safety equipment when riding. A helmet is required and must be DOT approved!
+[^1]: it is recommened to at least have these safety equipment when riding. A helmet is required and must be D.O.T approved!
 
 
