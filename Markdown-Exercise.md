@@ -30,7 +30,7 @@ Date: 2/18/2026
 4. Honda Rebel 300
 5. KTM RC 390
 
-## Riding Equipment
+## Riding Equipment [^1]
 
 - Helmet
 - Motorcycle Jacket
@@ -38,8 +38,9 @@ Date: 2/18/2026
 - Riding Shoes
 - Ear Plugs
 
-One unordered list
+
 ## 5. Links
+
 Link for todays wordle [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
 ## 6. Images
@@ -47,11 +48,13 @@ Link for todays wordle [Wordle](https://www.nytimes.com/games/wordle/index.html)
 ![Moto](https://upload.wikimedia.org/wikipedia/commons/6/6e/YZF-R3_2019_v3.jpg)
 
 ## 7. Blockquote
+
 > Find out who you are and do it on purpose
 
 — Dolly Parton
 
 ## 8. Inline Code & Code Block
+
 Demonstrate: - Inline code using single backticks:
 
 '''
@@ -75,6 +78,7 @@ Create a simple table (example topics):
 - [x] Charge phone
 
 ## 11. Footnote
-Add at least one footnote explaining something further.
+
+[^1]: it is recommened to at least have these safety equipment when riding. A helmet is required and must be DOT approved!
 
 
