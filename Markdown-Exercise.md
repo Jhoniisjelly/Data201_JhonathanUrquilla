@@ -41,7 +41,7 @@ Link for todays wordle [Wordle](https://www.nytimes.com/games/wordle/index.html)
 7. Blockquote
 > Find out who you are and do it on purpose
 
-- Dolly Parton
+— Dolly Parton
 
 8. Inline Code & Code Block
 Demonstrate: - Inline code using single backticks\
