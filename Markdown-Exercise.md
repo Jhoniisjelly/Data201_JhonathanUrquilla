@@ -39,7 +39,7 @@ Link for todays wordle [Wordle](https://www.nytimes.com/games/wordle/index.html)
 ![Moto](https://upload.wikimedia.org/wikipedia/commons/6/6e/YZF-R3_2019_v3.jpg)
 
 7. Blockquote
-Include one meaningful quote using Markdown blockquote syntax.
+> Find out who you are and do it on purpose
 
 8. Inline Code & Code Block
 Demonstrate: - Inline code using single backticks\
