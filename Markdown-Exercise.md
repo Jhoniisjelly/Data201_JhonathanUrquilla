@@ -57,10 +57,10 @@ Link for todays wordle [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
 Demonstrate: - Inline code using single backticks:
 
-'''
+```
 multi-line
 code block
-'''
+```
 
 ## 9. Table
 Create a simple table (example topics):
