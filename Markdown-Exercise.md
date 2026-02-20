@@ -36,7 +36,7 @@ Link for todays wordle [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
 6. Images
 
-[![Moto](photo)](https://yamahamotorsports.com/media/images_products/2026-26-yzf-r3/1200px/11-2026-YZFR3ATGR-PBGS2-US-12-YY-59427.JPG.webp)
+![Moto](https://upload.wikimedia.org/wikipedia/commons/6/6e/YZF-R3_2019_v3.jpg)
 
 7. Blockquote
 Include one meaningful quote using Markdown blockquote syntax.
