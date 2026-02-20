@@ -14,13 +14,13 @@ Date: 2/18/2026
 
 ##### Header lvl 5
 
-3. Emphasis
+## 3. Emphasis
 
 **Bold text**
 
 *Italic text*
 
-4. Lists
+## 4. Lists
 
 ## Motorcycles
 
@@ -30,39 +30,51 @@ Date: 2/18/2026
 4. Honda Rebel 300
 5. KTM RC 390
 
+## Riding Equipment
+
+- Helmet
+- Motorcycle Jacket
+- Motorcycle gloves
+- Riding Shoes
+- Ear Plugs
+
 One unordered list
-5. Links
+## 5. Links
 Link for todays wordle [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
-6. Images
+## 6. Images
 
 ![Moto](https://upload.wikimedia.org/wikipedia/commons/6/6e/YZF-R3_2019_v3.jpg)
 
-7. Blockquote
+## 7. Blockquote
 > Find out who you are and do it on purpose
 
 — Dolly Parton
 
-8. Inline Code & Code Block
-Demonstrate: - Inline code using single backticks\
+## 8. Inline Code & Code Block
+Demonstrate: - Inline code using single backticks:
 
-A multi-line code block using triple backticks
-9. Table
-Create a simple table (example topics): - Programming languages comparison\
+'''
+multi-line
+code block
+'''
 
-Favorite hobbies\
-Tools you want to learn
-10. Task List
-Create a task list with at least three items, and check off at least one item.
+## 9. Table
+Create a simple table (example topics):
 
-11. Footnote
+| M&M colors | Pack 1 | Pack 2 | Total |
+|---|---|---|---|
+| Yellow | 9 | 10 | 19 |
+| Red | 13 | 15 | 28 |
+| Green | 15 | 20 | 30|
+
+## 10. Task List
+
+- [x] Go to Museum
+- [ ] Put gas in car
+- [x] Charge phone
+
+## 11. Footnote
 Add at least one footnote explaining something further.
 
-Part 5 --- Connect with Classmates
-After creating your repository:
-
-Follow at least 3 of your classmates on GitHub.
-Explore their repositories.
-Make sure your own repository is public so others can view it.
-This helps build a collaborative learning environment and mirrors real-world professional networking.
 
