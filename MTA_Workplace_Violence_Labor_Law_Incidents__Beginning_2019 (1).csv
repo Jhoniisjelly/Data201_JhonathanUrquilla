@@ -1,0 +1,973 @@
+Month,Agency,Contact Type,Total
+01/01/2019,NYCT Subway/SIR,Physical Contact,15
+01/01/2019,NYCT Subway/SIR,Non Physical Contact,46
+01/01/2019,NYCT Bus/MTA Bus,Physical Contact,21
+01/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,90
+01/01/2019,NYCT Other,Physical Contact,1
+01/01/2019,NYCT Other,Non Physical Contact,1
+02/01/2019,NYCT Subway/SIR,Physical Contact,13
+02/01/2019,NYCT Subway/SIR,Non Physical Contact,33
+02/01/2019,NYCT Bus/MTA Bus,Physical Contact,22
+02/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,111
+02/01/2019,NYCT Other,Physical Contact,6
+02/01/2019,NYCT Other,Non Physical Contact,2
+03/01/2019,NYCT Subway/SIR,Physical Contact,24
+03/01/2019,NYCT Subway/SIR,Non Physical Contact,44
+03/01/2019,NYCT Bus/MTA Bus,Physical Contact,21
+03/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,95
+03/01/2019,NYCT Other,Physical Contact,2
+03/01/2019,NYCT Other,Non Physical Contact,2
+04/01/2019,NYCT Subway/SIR,Physical Contact,16
+04/01/2019,NYCT Subway/SIR,Non Physical Contact,49
+04/01/2019,NYCT Bus/MTA Bus,Physical Contact,35
+04/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,112
+04/01/2019,NYCT Other,Physical Contact,4
+04/01/2019,NYCT Other,Non Physical Contact,1
+05/01/2019,NYCT Subway/SIR,Physical Contact,18
+05/01/2019,NYCT Subway/SIR,Non Physical Contact,43
+05/01/2019,NYCT Bus/MTA Bus,Physical Contact,33
+05/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,94
+05/01/2019,NYCT Other,Physical Contact,1
+05/01/2019,NYCT Other,Non Physical Contact,0
+06/01/2019,NYCT Subway/SIR,Physical Contact,18
+06/01/2019,NYCT Subway/SIR,Non Physical Contact,39
+06/01/2019,NYCT Bus/MTA Bus,Physical Contact,24
+06/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,128
+06/01/2019,NYCT Other,Physical Contact,3
+06/01/2019,NYCT Other,Non Physical Contact,3
+07/01/2019,NYCT Subway/SIR,Physical Contact,14
+07/01/2019,NYCT Subway/SIR,Non Physical Contact,48
+07/01/2019,NYCT Bus/MTA Bus,Physical Contact,41
+07/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,105
+07/01/2019,NYCT Other,Physical Contact,4
+07/01/2019,NYCT Other,Non Physical Contact,3
+08/01/2019,NYCT Subway/SIR,Physical Contact,16
+08/01/2019,NYCT Subway/SIR,Non Physical Contact,49
+08/01/2019,NYCT Bus/MTA Bus,Physical Contact,30
+08/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,97
+08/01/2019,NYCT Other,Physical Contact,8
+08/01/2019,NYCT Other,Non Physical Contact,0
+09/01/2019,NYCT Subway/SIR,Physical Contact,17
+09/01/2019,NYCT Subway/SIR,Non Physical Contact,37
+09/01/2019,NYCT Bus/MTA Bus,Physical Contact,27
+09/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,112
+09/01/2019,NYCT Other,Physical Contact,6
+09/01/2019,NYCT Other,Non Physical Contact,3
+10/01/2019,NYCT Subway/SIR,Physical Contact,21
+10/01/2019,NYCT Subway/SIR,Non Physical Contact,58
+10/01/2019,NYCT Bus/MTA Bus,Physical Contact,34
+10/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,120
+10/01/2019,NYCT Other,Physical Contact,1
+10/01/2019,NYCT Other,Non Physical Contact,4
+11/01/2019,NYCT Subway/SIR,Physical Contact,21
+11/01/2019,NYCT Subway/SIR,Non Physical Contact,49
+11/01/2019,NYCT Bus/MTA Bus,Physical Contact,29
+11/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,114
+11/01/2019,NYCT Other,Physical Contact,2
+11/01/2019,NYCT Other,Non Physical Contact,0
+12/01/2019,NYCT Subway/SIR,Physical Contact,25
+12/01/2019,NYCT Subway/SIR,Non Physical Contact,63
+12/01/2019,NYCT Bus/MTA Bus,Physical Contact,25
+12/01/2019,NYCT Bus/MTA Bus,Non Physical Contact,93
+12/01/2019,NYCT Other,Physical Contact,5
+12/01/2019,NYCT Other,Non Physical Contact,1
+01/01/2020,NYCT Subway/SIR,Physical Contact,18
+01/01/2020,NYCT Subway/SIR,Non Physical Contact,52
+01/01/2020,NYCT Bus/MTA Bus,Physical Contact,37
+01/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,110
+01/01/2020,NYCT Other,Physical Contact,2
+01/01/2020,NYCT Other,Non Physical Contact,3
+01/01/2020,B&T,Physical Contact,0
+01/01/2020,B&T,Non Physical Contact,1
+02/01/2020,NYCT Subway/SIR,Physical Contact,15
+02/01/2020,NYCT Subway/SIR,Non Physical Contact,46
+02/01/2020,NYCT Bus/MTA Bus,Physical Contact,24
+02/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,76
+02/01/2020,NYCT Other,Physical Contact,1
+02/01/2020,NYCT Other,Non Physical Contact,5
+02/01/2020,B&T,Physical Contact,0
+02/01/2020,B&T,Non Physical Contact,1
+03/01/2020,NYCT Subway/SIR,Physical Contact,30
+03/01/2020,NYCT Subway/SIR,Non Physical Contact,53
+03/01/2020,NYCT Bus/MTA Bus,Physical Contact,30
+03/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,108
+03/01/2020,NYCT Other,Physical Contact,4
+03/01/2020,NYCT Other,Non Physical Contact,2
+03/01/2020,B&T,Physical Contact,0
+03/01/2020,B&T,Non Physical Contact,0
+04/01/2020,NYCT Subway/SIR,Physical Contact,9
+04/01/2020,NYCT Subway/SIR,Non Physical Contact,44
+04/01/2020,NYCT Bus/MTA Bus,Physical Contact,9
+04/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,95
+04/01/2020,NYCT Other,Physical Contact,1
+04/01/2020,NYCT Other,Non Physical Contact,1
+04/01/2020,B&T,Physical Contact,0
+04/01/2020,B&T,Non Physical Contact,0
+05/01/2020,NYCT Subway/SIR,Physical Contact,24
+05/01/2020,NYCT Subway/SIR,Non Physical Contact,49
+05/01/2020,NYCT Bus/MTA Bus,Physical Contact,17
+05/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,121
+05/01/2020,NYCT Other,Physical Contact,2
+05/01/2020,NYCT Other,Non Physical Contact,1
+05/01/2020,B&T,Physical Contact,0
+05/01/2020,B&T,Non Physical Contact,2
+06/01/2020,NYCT Subway/SIR,Physical Contact,19
+06/01/2020,NYCT Subway/SIR,Non Physical Contact,57
+06/01/2020,NYCT Bus/MTA Bus,Physical Contact,20
+06/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,131
+06/01/2020,NYCT Other,Physical Contact,2
+06/01/2020,NYCT Other,Non Physical Contact,4
+06/01/2020,B&T,Physical Contact,0
+06/01/2020,B&T,Non Physical Contact,0
+07/01/2020,NYCT Subway/SIR,Physical Contact,17
+07/01/2020,NYCT Subway/SIR,Non Physical Contact,44
+07/01/2020,NYCT Bus/MTA Bus,Physical Contact,26
+07/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,141
+07/01/2020,NYCT Other,Physical Contact,2
+07/01/2020,NYCT Other,Non Physical Contact,5
+07/01/2020,B&T,Physical Contact,0
+07/01/2020,B&T,Non Physical Contact,0
+08/01/2020,NYCT Subway/SIR,Physical Contact,22
+08/01/2020,NYCT Subway/SIR,Non Physical Contact,39
+08/01/2020,NYCT Bus/MTA Bus,Physical Contact,18
+08/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,118
+08/01/2020,NYCT Other,Physical Contact,1
+08/01/2020,NYCT Other,Non Physical Contact,1
+08/01/2020,B&T,Physical Contact,0
+08/01/2020,B&T,Non Physical Contact,1
+09/01/2020,NYCT Subway/SIR,Physical Contact,14
+09/01/2020,NYCT Subway/SIR,Non Physical Contact,51
+09/01/2020,NYCT Bus/MTA Bus,Physical Contact,31
+09/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,124
+09/01/2020,NYCT Other,Physical Contact,1
+09/01/2020,NYCT Other,Non Physical Contact,1
+09/01/2020,B&T,Physical Contact,0
+09/01/2020,B&T,Non Physical Contact,0
+10/01/2020,NYCT Subway/SIR,Physical Contact,17
+10/01/2020,NYCT Subway/SIR,Non Physical Contact,75
+10/01/2020,NYCT Bus/MTA Bus,Physical Contact,44
+10/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,129
+10/01/2020,NYCT Other,Physical Contact,2
+10/01/2020,NYCT Other,Non Physical Contact,3
+10/01/2020,B&T,Physical Contact,1
+10/01/2020,B&T,Non Physical Contact,0
+11/01/2020,NYCT Subway/SIR,Physical Contact,21
+11/01/2020,NYCT Subway/SIR,Non Physical Contact,64
+11/01/2020,NYCT Bus/MTA Bus,Physical Contact,29
+11/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,105
+11/01/2020,NYCT Other,Physical Contact,4
+11/01/2020,NYCT Other,Non Physical Contact,1
+11/01/2020,B&T,Physical Contact,0
+11/01/2020,B&T,Non Physical Contact,0
+12/01/2020,NYCT Subway/SIR,Physical Contact,17
+12/01/2020,NYCT Subway/SIR,Non Physical Contact,46
+12/01/2020,NYCT Bus/MTA Bus,Physical Contact,39
+12/01/2020,NYCT Bus/MTA Bus,Non Physical Contact,113
+12/01/2020,NYCT Other,Physical Contact,2
+12/01/2020,NYCT Other,Non Physical Contact,1
+12/01/2020,B&T,Physical Contact,2
+12/01/2020,B&T,Non Physical Contact,1
+01/01/2021,NYCT Subway/SIR,Physical Contact,15
+01/01/2021,NYCT Subway/SIR,Non Physical Contact,61
+01/01/2021,NYCT Bus/MTA Bus,Physical Contact,31
+01/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,114
+01/01/2021,NYCT Other,Physical Contact,4
+01/01/2021,NYCT Other,Non Physical Contact,2
+01/01/2021,B&T,Physical Contact,0
+01/01/2021,B&T,Non Physical Contact,0
+02/01/2021,NYCT Subway/SIR,Physical Contact,14
+02/01/2021,NYCT Subway/SIR,Non Physical Contact,56
+02/01/2021,NYCT Bus/MTA Bus,Physical Contact,27
+02/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,95
+02/01/2021,NYCT Other,Physical Contact,3
+02/01/2021,NYCT Other,Non Physical Contact,0
+02/01/2021,B&T,Physical Contact,0
+02/01/2021,B&T,Non Physical Contact,0
+03/01/2021,NYCT Subway/SIR,Physical Contact,18
+03/01/2021,NYCT Subway/SIR,Non Physical Contact,55
+03/01/2021,NYCT Bus/MTA Bus,Physical Contact,34
+03/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,103
+03/01/2021,NYCT Other,Physical Contact,3
+03/01/2021,NYCT Other,Non Physical Contact,0
+03/01/2021,B&T,Physical Contact,0
+03/01/2021,B&T,Non Physical Contact,1
+04/01/2021,NYCT Subway/SIR,Physical Contact,21
+04/01/2021,NYCT Subway/SIR,Non Physical Contact,48
+04/01/2021,NYCT Bus/MTA Bus,Physical Contact,38
+04/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,105
+04/01/2021,NYCT Other,Physical Contact,5
+04/01/2021,NYCT Other,Non Physical Contact,0
+04/01/2021,B&T,Physical Contact,0
+04/01/2021,B&T,Non Physical Contact,0
+05/01/2021,NYCT Subway/SIR,Physical Contact,35
+05/01/2021,NYCT Subway/SIR,Non Physical Contact,41
+05/01/2021,NYCT Bus/MTA Bus,Physical Contact,45
+05/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,111
+05/01/2021,NYCT Other,Physical Contact,0
+05/01/2021,NYCT Other,Non Physical Contact,1
+05/01/2021,B&T,Physical Contact,0
+05/01/2021,B&T,Non Physical Contact,0
+06/01/2021,NYCT Subway/SIR,Physical Contact,13
+06/01/2021,NYCT Subway/SIR,Non Physical Contact,31
+06/01/2021,NYCT Bus/MTA Bus,Physical Contact,53
+06/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,96
+06/01/2021,NYCT Other,Physical Contact,2
+06/01/2021,NYCT Other,Non Physical Contact,3
+06/01/2021,B&T,Physical Contact,0
+06/01/2021,B&T,Non Physical Contact,1
+07/01/2021,NYCT Subway/SIR,Physical Contact,21
+07/01/2021,NYCT Subway/SIR,Non Physical Contact,43
+07/01/2021,NYCT Bus/MTA Bus,Physical Contact,37
+07/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,128
+07/01/2021,NYCT Other,Physical Contact,4
+07/01/2021,NYCT Other,Non Physical Contact,1
+07/01/2021,B&T,Physical Contact,0
+07/01/2021,B&T,Non Physical Contact,0
+08/01/2021,NYCT Subway/SIR,Physical Contact,14
+08/01/2021,NYCT Subway/SIR,Non Physical Contact,52
+08/01/2021,NYCT Bus/MTA Bus,Physical Contact,36
+08/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,130
+08/01/2021,NYCT Other,Physical Contact,2
+08/01/2021,NYCT Other,Non Physical Contact,0
+08/01/2021,B&T,Physical Contact,0
+08/01/2021,B&T,Non Physical Contact,1
+09/01/2021,NYCT Subway/SIR,Physical Contact,18
+09/01/2021,NYCT Subway/SIR,Non Physical Contact,46
+09/01/2021,NYCT Bus/MTA Bus,Physical Contact,35
+09/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,107
+09/01/2021,NYCT Other,Physical Contact,2
+09/01/2021,NYCT Other,Non Physical Contact,3
+09/01/2021,B&T,Physical Contact,0
+09/01/2021,B&T,Non Physical Contact,0
+10/01/2021,NYCT Subway/SIR,Physical Contact,12
+10/01/2021,NYCT Subway/SIR,Non Physical Contact,56
+10/01/2021,NYCT Bus/MTA Bus,Physical Contact,34
+10/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,148
+10/01/2021,NYCT Other,Physical Contact,4
+10/01/2021,NYCT Other,Non Physical Contact,4
+10/01/2021,B&T,Physical Contact,0
+10/01/2021,B&T,Non Physical Contact,1
+11/01/2021,NYCT Subway/SIR,Physical Contact,18
+11/01/2021,NYCT Subway/SIR,Non Physical Contact,49
+11/01/2021,NYCT Bus/MTA Bus,Physical Contact,23
+11/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,143
+11/01/2021,NYCT Other,Physical Contact,0
+11/01/2021,NYCT Other,Non Physical Contact,1
+11/01/2021,B&T,Physical Contact,0
+11/01/2021,B&T,Non Physical Contact,0
+12/01/2021,NYCT Subway/SIR,Physical Contact,18
+12/01/2021,NYCT Subway/SIR,Non Physical Contact,63
+12/01/2021,NYCT Bus/MTA Bus,Physical Contact,23
+12/01/2021,NYCT Bus/MTA Bus,Non Physical Contact,115
+12/01/2021,NYCT Other,Physical Contact,3
+12/01/2021,NYCT Other,Non Physical Contact,1
+12/01/2021,B&T,Physical Contact,0
+12/01/2021,B&T,Non Physical Contact,0
+01/01/2022,NYCT Subway/SIR,Physical Contact,19
+01/01/2022,NYCT Subway/SIR,Non Physical Contact,48
+01/01/2022,NYCT Bus/MTA Bus,Physical Contact,15
+01/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,80
+01/01/2022,NYCT Other,Physical Contact,1
+01/01/2022,NYCT Other,Non Physical Contact,1
+01/01/2022,B&T,Physical Contact,0
+01/01/2022,B&T,Non Physical Contact,1
+02/01/2022,NYCT Subway/SIR,Physical Contact,17
+02/01/2022,NYCT Subway/SIR,Non Physical Contact,48
+02/01/2022,NYCT Bus/MTA Bus,Physical Contact,25
+02/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,88
+02/01/2022,NYCT Other,Physical Contact,5
+02/01/2022,NYCT Other,Non Physical Contact,0
+02/01/2022,B&T,Physical Contact,0
+02/01/2022,B&T,Non Physical Contact,0
+03/01/2022,NYCT Subway/SIR,Physical Contact,28
+03/01/2022,NYCT Subway/SIR,Non Physical Contact,58
+03/01/2022,NYCT Bus/MTA Bus,Physical Contact,24
+03/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,115
+03/01/2022,NYCT Other,Physical Contact,5
+03/01/2022,NYCT Other,Non Physical Contact,5
+03/01/2022,B&T,Physical Contact,0
+03/01/2022,B&T,Non Physical Contact,1
+04/01/2022,NYCT Subway/SIR,Physical Contact,18
+04/01/2022,NYCT Subway/SIR,Non Physical Contact,61
+04/01/2022,NYCT Bus/MTA Bus,Physical Contact,27
+04/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,95
+04/01/2022,NYCT Other,Physical Contact,3
+04/01/2022,NYCT Other,Non Physical Contact,1
+04/01/2022,B&T,Physical Contact,0
+04/01/2022,B&T,Non Physical Contact,0
+05/01/2022,NYCT Subway/SIR,Physical Contact,18
+05/01/2022,NYCT Subway/SIR,Non Physical Contact,61
+05/01/2022,NYCT Bus/MTA Bus,Physical Contact,43
+05/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,95
+05/01/2022,NYCT Other,Physical Contact,2
+05/01/2022,NYCT Other,Non Physical Contact,3
+05/01/2022,B&T,Physical Contact,0
+05/01/2022,B&T,Non Physical Contact,0
+06/01/2022,NYCT Subway/SIR,Physical Contact,17
+06/01/2022,NYCT Subway/SIR,Non Physical Contact,28
+06/01/2022,NYCT Bus/MTA Bus,Physical Contact,48
+06/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,122
+06/01/2022,NYCT Other,Physical Contact,2
+06/01/2022,NYCT Other,Non Physical Contact,1
+06/01/2022,B&T,Physical Contact,0
+06/01/2022,B&T,Non Physical Contact,0
+07/01/2022,NYCT Subway/SIR,Physical Contact,12
+07/01/2022,NYCT Subway/SIR,Non Physical Contact,38
+07/01/2022,NYCT Bus/MTA Bus,Physical Contact,40
+07/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,109
+07/01/2022,NYCT Other,Physical Contact,4
+07/01/2022,NYCT Other,Non Physical Contact,0
+07/01/2022,B&T,Physical Contact,0
+07/01/2022,B&T,Non Physical Contact,0
+08/01/2022,NYCT Subway/SIR,Physical Contact,21
+08/01/2022,NYCT Subway/SIR,Non Physical Contact,42
+08/01/2022,NYCT Bus/MTA Bus,Physical Contact,23
+08/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,114
+08/01/2022,NYCT Other,Physical Contact,4
+08/01/2022,NYCT Other,Non Physical Contact,1
+08/01/2022,B&T,Physical Contact,0
+08/01/2022,B&T,Non Physical Contact,1
+09/01/2022,NYCT Subway/SIR,Physical Contact,15
+09/01/2022,NYCT Subway/SIR,Non Physical Contact,25
+09/01/2022,NYCT Bus/MTA Bus,Physical Contact,31
+09/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,92
+09/01/2022,NYCT Other,Physical Contact,2
+09/01/2022,NYCT Other,Non Physical Contact,2
+09/01/2022,B&T,Physical Contact,0
+09/01/2022,B&T,Non Physical Contact,1
+10/01/2022,NYCT Subway/SIR,Physical Contact,11
+10/01/2022,NYCT Subway/SIR,Non Physical Contact,35
+10/01/2022,NYCT Bus/MTA Bus,Physical Contact,32
+10/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,121
+10/01/2022,NYCT Other,Physical Contact,2
+10/01/2022,NYCT Other,Non Physical Contact,0
+10/01/2022,B&T,Physical Contact,0
+10/01/2022,B&T,Non Physical Contact,1
+11/01/2022,NYCT Subway/SIR,Physical Contact,14
+11/01/2022,NYCT Subway/SIR,Non Physical Contact,23
+11/01/2022,NYCT Bus/MTA Bus,Physical Contact,43
+11/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,112
+11/01/2022,NYCT Other,Physical Contact,0
+11/01/2022,NYCT Other,Non Physical Contact,5
+11/01/2022,LIRR,Physical Contact,1
+11/01/2022,LIRR,Non Physical Contact,0
+11/01/2022,MNR,Physical Contact,2
+11/01/2022,MNR,Non Physical Contact,4
+11/01/2022,B&T,Physical Contact,0
+11/01/2022,B&T,Non Physical Contact,0
+12/01/2022,NYCT Subway/SIR,Physical Contact,25
+12/01/2022,NYCT Subway/SIR,Non Physical Contact,37
+12/01/2022,NYCT Bus/MTA Bus,Physical Contact,36
+12/01/2022,NYCT Bus/MTA Bus,Non Physical Contact,99
+12/01/2022,NYCT Other,Physical Contact,2
+12/01/2022,NYCT Other,Non Physical Contact,1
+12/01/2022,LIRR,Physical Contact,1
+12/01/2022,LIRR,Non Physical Contact,5
+12/01/2022,MNR,Physical Contact,4
+12/01/2022,MNR,Non Physical Contact,1
+12/01/2022,B&T,Physical Contact,0
+12/01/2022,B&T,Non Physical Contact,0
+12/01/2022,MTA PD Sworn,Physical Contact,1
+12/01/2022,MTA PD Sworn,Non Physical Contact,0
+01/01/2023,NYCT Subway/SIR,Physical Contact,31
+01/01/2023,NYCT Subway/SIR,Non Physical Contact,31
+01/01/2023,NYCT Bus/MTA Bus,Physical Contact,28
+01/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,122
+01/01/2023,NYCT Other,Physical Contact,6
+01/01/2023,NYCT Other,Non Physical Contact,4
+01/01/2023,LIRR,Physical Contact,4
+01/01/2023,LIRR,Non Physical Contact,2
+01/01/2023,MNR,Physical Contact,5
+01/01/2023,MNR,Non Physical Contact,5
+01/01/2023,B&T,Physical Contact,0
+01/01/2023,B&T,Non Physical Contact,1
+01/01/2023,MTA HQ,Physical Contact,1
+01/01/2023,MTA HQ,Non Physical Contact,0
+01/01/2023,MTA PD Sworn,Physical Contact,4
+01/01/2023,MTA PD Sworn,Non Physical Contact,0
+02/01/2023,NYCT Subway/SIR,Physical Contact,20
+02/01/2023,NYCT Subway/SIR,Non Physical Contact,27
+02/01/2023,NYCT Bus/MTA Bus,Physical Contact,29
+02/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,110
+02/01/2023,NYCT Other,Physical Contact,2
+02/01/2023,NYCT Other,Non Physical Contact,7
+02/01/2023,LIRR,Physical Contact,1
+02/01/2023,LIRR,Non Physical Contact,2
+02/01/2023,MNR,Physical Contact,5
+02/01/2023,MNR,Non Physical Contact,7
+02/01/2023,B&T,Physical Contact,0
+02/01/2023,B&T,Non Physical Contact,0
+02/01/2023,MTA HQ,Physical Contact,0
+02/01/2023,MTA HQ,Non Physical Contact,0
+02/01/2023,MTA PD Sworn,Physical Contact,0
+02/01/2023,MTA PD Sworn,Non Physical Contact,0
+03/01/2023,NYCT Subway/SIR,Physical Contact,28
+03/01/2023,NYCT Subway/SIR,Non Physical Contact,43
+03/01/2023,NYCT Bus/MTA Bus,Physical Contact,39
+03/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,109
+03/01/2023,NYCT Other,Physical Contact,5
+03/01/2023,NYCT Other,Non Physical Contact,5
+03/01/2023,LIRR,Physical Contact,6
+03/01/2023,LIRR,Non Physical Contact,3
+03/01/2023,MNR,Physical Contact,7
+03/01/2023,MNR,Non Physical Contact,1
+03/01/2023,B&T,Physical Contact,0
+03/01/2023,B&T,Non Physical Contact,1
+03/01/2023,MTA HQ,Physical Contact,0
+03/01/2023,MTA HQ,Non Physical Contact,2
+03/01/2023,MTA PD Sworn,Physical Contact,4
+03/01/2023,MTA PD Sworn,Non Physical Contact,0
+04/01/2023,NYCT Subway/SIR,Physical Contact,35
+04/01/2023,NYCT Subway/SIR,Non Physical Contact,48
+04/01/2023,NYCT Bus/MTA Bus,Physical Contact,29
+04/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,88
+04/01/2023,NYCT Other,Physical Contact,7
+04/01/2023,NYCT Other,Non Physical Contact,2
+04/01/2023,LIRR,Physical Contact,7
+04/01/2023,LIRR,Non Physical Contact,2
+04/01/2023,MNR,Physical Contact,5
+04/01/2023,MNR,Non Physical Contact,6
+04/01/2023,B&T,Physical Contact,0
+04/01/2023,B&T,Non Physical Contact,0
+04/01/2023,MTA HQ,Physical Contact,0
+04/01/2023,MTA HQ,Non Physical Contact,1
+04/01/2023,MTA PD Sworn,Physical Contact,1
+04/01/2023,MTA PD Sworn,Non Physical Contact,1
+05/01/2023,NYCT Subway/SIR,Physical Contact,29
+05/01/2023,NYCT Subway/SIR,Non Physical Contact,48
+05/01/2023,NYCT Bus/MTA Bus,Physical Contact,38
+05/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,116
+05/01/2023,NYCT Other,Physical Contact,4
+05/01/2023,NYCT Other,Non Physical Contact,6
+05/01/2023,LIRR,Physical Contact,2
+05/01/2023,LIRR,Non Physical Contact,2
+05/01/2023,MNR,Physical Contact,5
+05/01/2023,MNR,Non Physical Contact,6
+05/01/2023,B&T,Physical Contact,0
+05/01/2023,B&T,Non Physical Contact,0
+05/01/2023,MTA HQ,Physical Contact,0
+05/01/2023,MTA HQ,Non Physical Contact,3
+05/01/2023,MTA PD Sworn,Physical Contact,2
+05/01/2023,MTA PD Sworn,Non Physical Contact,0
+06/01/2023,NYCT Subway/SIR,Physical Contact,20
+06/01/2023,NYCT Subway/SIR,Non Physical Contact,39
+06/01/2023,NYCT Bus/MTA Bus,Physical Contact,47
+06/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,109
+06/01/2023,NYCT Other,Physical Contact,1
+06/01/2023,NYCT Other,Non Physical Contact,2
+06/01/2023,LIRR,Physical Contact,5
+06/01/2023,LIRR,Non Physical Contact,1
+06/01/2023,MNR,Physical Contact,2
+06/01/2023,MNR,Non Physical Contact,6
+06/01/2023,B&T,Physical Contact,0
+06/01/2023,B&T,Non Physical Contact,0
+06/01/2023,MTA HQ,Physical Contact,0
+06/01/2023,MTA HQ,Non Physical Contact,2
+06/01/2023,MTA PD Sworn,Physical Contact,2
+06/01/2023,MTA PD Sworn,Non Physical Contact,0
+07/01/2023,NYCT Subway/SIR,Physical Contact,18
+07/01/2023,NYCT Subway/SIR,Non Physical Contact,31
+07/01/2023,NYCT Bus/MTA Bus,Physical Contact,32
+07/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,87
+07/01/2023,NYCT Other,Physical Contact,5
+07/01/2023,NYCT Other,Non Physical Contact,0
+07/01/2023,LIRR,Physical Contact,3
+07/01/2023,LIRR,Non Physical Contact,3
+07/01/2023,MNR,Physical Contact,10
+07/01/2023,MNR,Non Physical Contact,7
+07/01/2023,B&T,Physical Contact,0
+07/01/2023,B&T,Non Physical Contact,0
+07/01/2023,MTA HQ,Physical Contact,0
+07/01/2023,MTA HQ,Non Physical Contact,2
+07/01/2023,MTA PD Sworn,Physical Contact,2
+07/01/2023,MTA PD Sworn,Non Physical Contact,1
+08/01/2023,NYCT Subway/SIR,Physical Contact,31
+08/01/2023,NYCT Subway/SIR,Non Physical Contact,42
+08/01/2023,NYCT Bus/MTA Bus,Physical Contact,22
+08/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,100
+08/01/2023,NYCT Other,Physical Contact,3
+08/01/2023,NYCT Other,Non Physical Contact,0
+08/01/2023,LIRR,Physical Contact,6
+08/01/2023,LIRR,Non Physical Contact,3
+08/01/2023,MNR,Physical Contact,3
+08/01/2023,MNR,Non Physical Contact,1
+08/01/2023,B&T,Physical Contact,0
+08/01/2023,B&T,Non Physical Contact,1
+08/01/2023,MTA HQ,Physical Contact,0
+08/01/2023,MTA HQ,Non Physical Contact,2
+08/01/2023,MTA PD Sworn,Physical Contact,0
+08/01/2023,MTA PD Sworn,Non Physical Contact,0
+09/01/2023,NYCT Subway/SIR,Physical Contact,27
+09/01/2023,NYCT Subway/SIR,Non Physical Contact,35
+09/01/2023,NYCT Bus/MTA Bus,Physical Contact,32
+09/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,76
+09/01/2023,NYCT Other,Physical Contact,1
+09/01/2023,NYCT Other,Non Physical Contact,0
+09/01/2023,LIRR,Physical Contact,1
+09/01/2023,LIRR,Non Physical Contact,5
+09/01/2023,MNR,Physical Contact,7
+09/01/2023,MNR,Non Physical Contact,7
+09/01/2023,B&T,Physical Contact,0
+09/01/2023,B&T,Non Physical Contact,1
+09/01/2023,MTA HQ,Physical Contact,0
+09/01/2023,MTA HQ,Non Physical Contact,0
+09/01/2023,MTA PD Sworn,Physical Contact,8
+09/01/2023,MTA PD Sworn,Non Physical Contact,0
+10/01/2023,NYCT Subway/SIR,Physical Contact,33
+10/01/2023,NYCT Subway/SIR,Non Physical Contact,48
+10/01/2023,NYCT Bus/MTA Bus,Physical Contact,36
+10/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,99
+10/01/2023,NYCT Other,Physical Contact,2
+10/01/2023,NYCT Other,Non Physical Contact,4
+10/01/2023,LIRR,Physical Contact,6
+10/01/2023,LIRR,Non Physical Contact,1
+10/01/2023,MNR,Physical Contact,2
+10/01/2023,MNR,Non Physical Contact,3
+10/01/2023,B&T,Physical Contact,0
+10/01/2023,B&T,Non Physical Contact,1
+10/01/2023,MTA HQ,Physical Contact,0
+10/01/2023,MTA HQ,Non Physical Contact,0
+10/01/2023,MTA PD Sworn,Physical Contact,3
+10/01/2023,MTA PD Sworn,Non Physical Contact,2
+11/01/2023,NYCT Subway/SIR,Physical Contact,24
+11/01/2023,NYCT Subway/SIR,Non Physical Contact,39
+11/01/2023,NYCT Bus/MTA Bus,Physical Contact,32
+11/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,94
+11/01/2023,NYCT Other,Physical Contact,2
+11/01/2023,NYCT Other,Non Physical Contact,3
+11/01/2023,LIRR,Physical Contact,4
+11/01/2023,LIRR,Non Physical Contact,5
+11/01/2023,MNR,Physical Contact,2
+11/01/2023,MNR,Non Physical Contact,4
+11/01/2023,B&T,Physical Contact,0
+11/01/2023,B&T,Non Physical Contact,0
+11/01/2023,MTA HQ,Physical Contact,0
+11/01/2023,MTA HQ,Non Physical Contact,0
+11/01/2023,MTA PD Sworn,Physical Contact,2
+11/01/2023,MTA PD Sworn,Non Physical Contact,1
+12/01/2023,NYCT Subway/SIR,Physical Contact,32
+12/01/2023,NYCT Subway/SIR,Non Physical Contact,35
+12/01/2023,NYCT Bus/MTA Bus,Physical Contact,27
+12/01/2023,NYCT Bus/MTA Bus,Non Physical Contact,86
+12/01/2023,NYCT Other,Physical Contact,3
+12/01/2023,NYCT Other,Non Physical Contact,2
+12/01/2023,LIRR,Physical Contact,5
+12/01/2023,LIRR,Non Physical Contact,3
+12/01/2023,MNR,Physical Contact,7
+12/01/2023,MNR,Non Physical Contact,7
+12/01/2023,B&T,Physical Contact,0
+12/01/2023,B&T,Non Physical Contact,0
+12/01/2023,MTA HQ,Physical Contact,1
+12/01/2023,MTA HQ,Non Physical Contact,2
+12/01/2023,MTA PD Sworn,Physical Contact,6
+12/01/2023,MTA PD Sworn,Non Physical Contact,3
+01/01/2024,NYCT Subway/SIR,Physical Contact,26
+01/01/2024,NYCT Subway/SIR,Non Physical Contact,42
+01/01/2024,NYCT Bus/MTA Bus,Physical Contact,27
+01/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,61
+01/01/2024,NYCT Other,Physical Contact,3
+01/01/2024,NYCT Other,Non Physical Contact,2
+01/01/2024,LIRR,Physical Contact,5
+01/01/2024,LIRR,Non Physical Contact,4
+01/01/2024,MNR,Physical Contact,4
+01/01/2024,MNR,Non Physical Contact,3
+01/01/2024,B&T,Physical Contact,0
+01/01/2024,B&T,Non Physical Contact,0
+01/01/2024,MTA HQ,Physical Contact,0
+01/01/2024,MTA HQ,Non Physical Contact,0
+01/01/2024,MTA PD Sworn,Physical Contact,5
+01/01/2024,MTA PD Sworn,Non Physical Contact,4
+02/01/2024,NYCT Subway/SIR,Physical Contact,8
+02/01/2024,NYCT Subway/SIR,Non Physical Contact,40
+02/01/2024,NYCT Bus/MTA Bus,Physical Contact,17
+02/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,61
+02/01/2024,NYCT Other,Physical Contact,1
+02/01/2024,NYCT Other,Non Physical Contact,6
+02/01/2024,LIRR,Physical Contact,5
+02/01/2024,LIRR,Non Physical Contact,7
+02/01/2024,MNR,Physical Contact,2
+02/01/2024,MNR,Non Physical Contact,9
+02/01/2024,B&T,Physical Contact,0
+02/01/2024,B&T,Non Physical Contact,0
+02/01/2024,MTA HQ,Physical Contact,0
+02/01/2024,MTA HQ,Non Physical Contact,0
+02/01/2024,MTA PD Sworn,Physical Contact,4
+02/01/2024,MTA PD Sworn,Non Physical Contact,2
+03/01/2024,NYCT Subway/SIR,Physical Contact,20
+03/01/2024,NYCT Subway/SIR,Non Physical Contact,43
+03/01/2024,NYCT Bus/MTA Bus,Physical Contact,28
+03/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,73
+03/01/2024,NYCT Other,Physical Contact,3
+03/01/2024,NYCT Other,Non Physical Contact,3
+03/01/2024,LIRR,Physical Contact,3
+03/01/2024,LIRR,Non Physical Contact,5
+03/01/2024,MNR,Physical Contact,4
+03/01/2024,MNR,Non Physical Contact,11
+03/01/2024,B&T,Physical Contact,0
+03/01/2024,B&T,Non Physical Contact,0
+03/01/2024,MTA HQ,Physical Contact,0
+03/01/2024,MTA HQ,Non Physical Contact,0
+03/01/2024,MTA PD Sworn,Physical Contact,8
+03/01/2024,MTA PD Sworn,Non Physical Contact,0
+04/01/2024,NYCT Subway/SIR,Physical Contact,19
+04/01/2024,NYCT Subway/SIR,Non Physical Contact,26
+04/01/2024,NYCT Bus/MTA Bus,Physical Contact,33
+04/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,75
+04/01/2024,NYCT Other,Physical Contact,3
+04/01/2024,NYCT Other,Non Physical Contact,4
+04/01/2024,LIRR,Physical Contact,7
+04/01/2024,LIRR,Non Physical Contact,2
+04/01/2024,MNR,Physical Contact,4
+04/01/2024,MNR,Non Physical Contact,6
+04/01/2024,B&T,Physical Contact,0
+04/01/2024,B&T,Non Physical Contact,0
+04/01/2024,MTA HQ,Physical Contact,0
+04/01/2024,MTA HQ,Non Physical Contact,0
+04/01/2024,MTA PD Sworn,Physical Contact,7
+04/01/2024,MTA PD Sworn,Non Physical Contact,0
+05/01/2024,NYCT Subway/SIR,Physical Contact,17
+05/01/2024,NYCT Subway/SIR,Non Physical Contact,33
+05/01/2024,NYCT Bus/MTA Bus,Physical Contact,27
+05/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,76
+05/01/2024,NYCT Other,Physical Contact,4
+05/01/2024,NYCT Other,Non Physical Contact,5
+05/01/2024,LIRR,Physical Contact,5
+05/01/2024,LIRR,Non Physical Contact,6
+05/01/2024,MNR,Physical Contact,4
+05/01/2024,MNR,Non Physical Contact,8
+05/01/2024,B&T,Physical Contact,0
+05/01/2024,B&T,Non Physical Contact,0
+05/01/2024,MTA HQ,Physical Contact,0
+05/01/2024,MTA HQ,Non Physical Contact,0
+05/01/2024,MTA PD Sworn,Physical Contact,6
+05/01/2024,MTA PD Sworn,Non Physical Contact,0
+06/01/2024,NYCT Subway/SIR,Physical Contact,16
+06/01/2024,NYCT Subway/SIR,Non Physical Contact,32
+06/01/2024,NYCT Bus/MTA Bus,Physical Contact,28
+06/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,79
+06/01/2024,NYCT Other,Physical Contact,2
+06/01/2024,NYCT Other,Non Physical Contact,5
+06/01/2024,LIRR,Physical Contact,5
+06/01/2024,LIRR,Non Physical Contact,10
+06/01/2024,MNR,Physical Contact,5
+06/01/2024,MNR,Non Physical Contact,7
+06/01/2024,B&T,Physical Contact,0
+06/01/2024,B&T,Non Physical Contact,0
+06/01/2024,MTA HQ,Physical Contact,0
+06/01/2024,MTA HQ,Non Physical Contact,0
+06/01/2024,MTA PD Sworn,Physical Contact,3
+06/01/2024,MTA PD Sworn,Non Physical Contact,0
+07/01/2024,NYCT Subway/SIR,Physical Contact,17
+07/01/2024,NYCT Subway/SIR,Non Physical Contact,27
+07/01/2024,NYCT Bus/MTA Bus,Physical Contact,34
+07/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,82
+07/01/2024,NYCT Other,Physical Contact,3
+07/01/2024,NYCT Other,Non Physical Contact,3
+07/01/2024,LIRR,Physical Contact,13
+07/01/2024,LIRR,Non Physical Contact,14
+07/01/2024,MNR,Physical Contact,4
+07/01/2024,MNR,Non Physical Contact,11
+07/01/2024,B&T,Physical Contact,0
+07/01/2024,B&T,Non Physical Contact,1
+07/01/2024,MTA HQ,Physical Contact,0
+07/01/2024,MTA HQ,Non Physical Contact,0
+07/01/2024,MTA PD Sworn,Physical Contact,3
+07/01/2024,MTA PD Sworn,Non Physical Contact,0
+08/01/2024,NYCT Subway/SIR,Physical Contact,19
+08/01/2024,NYCT Subway/SIR,Non Physical Contact,34
+08/01/2024,NYCT Bus/MTA Bus,Physical Contact,21
+08/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,75
+08/01/2024,NYCT Other,Physical Contact,3
+08/01/2024,NYCT Other,Non Physical Contact,1
+08/01/2024,LIRR,Physical Contact,3
+08/01/2024,LIRR,Non Physical Contact,9
+08/01/2024,MNR,Physical Contact,2
+08/01/2024,MNR,Non Physical Contact,9
+08/01/2024,B&T,Physical Contact,0
+08/01/2024,B&T,Non Physical Contact,0
+08/01/2024,MTA HQ,Physical Contact,0
+08/01/2024,MTA HQ,Non Physical Contact,1
+08/01/2024,MTA PD Sworn,Physical Contact,0
+08/01/2024,MTA PD Sworn,Non Physical Contact,0
+09/01/2024,NYCT Subway/SIR,Physical Contact,18
+09/01/2024,NYCT Subway/SIR,Non Physical Contact,48
+09/01/2024,NYCT Bus/MTA Bus,Physical Contact,36
+09/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,72
+09/01/2024,NYCT Other,Physical Contact,6
+09/01/2024,NYCT Other,Non Physical Contact,9
+09/01/2024,LIRR,Physical Contact,7
+09/01/2024,LIRR,Non Physical Contact,10
+09/01/2024,MNR,Physical Contact,10
+09/01/2024,MNR,Non Physical Contact,8
+09/01/2024,B&T,Physical Contact,0
+09/01/2024,B&T,Non Physical Contact,0
+09/01/2024,MTA HQ,Physical Contact,0
+09/01/2024,MTA HQ,Non Physical Contact,0
+09/01/2024,MTA PD Sworn,Physical Contact,6
+09/01/2024,MTA PD Sworn,Non Physical Contact,0
+10/01/2024,NYCT Subway/SIR,Physical Contact,30
+10/01/2024,NYCT Subway/SIR,Non Physical Contact,37
+10/01/2024,NYCT Bus/MTA Bus,Physical Contact,30
+10/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,100
+10/01/2024,NYCT Other,Physical Contact,3
+10/01/2024,NYCT Other,Non Physical Contact,6
+10/01/2024,LIRR,Physical Contact,3
+10/01/2024,LIRR,Non Physical Contact,9
+10/01/2024,MNR,Physical Contact,4
+10/01/2024,MNR,Non Physical Contact,5
+10/01/2024,B&T,Physical Contact,0
+10/01/2024,B&T,Non Physical Contact,1
+10/01/2024,MTA HQ,Physical Contact,0
+10/01/2024,MTA HQ,Non Physical Contact,0
+10/01/2024,MTA PD Sworn,Physical Contact,2
+10/01/2024,MTA PD Sworn,Non Physical Contact,0
+11/01/2024,NYCT Subway/SIR,Physical Contact,18
+11/01/2024,NYCT Subway/SIR,Non Physical Contact,41
+11/01/2024,NYCT Bus/MTA Bus,Physical Contact,27
+11/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,94
+11/01/2024,NYCT Other,Physical Contact,2
+11/01/2024,NYCT Other,Non Physical Contact,3
+11/01/2024,LIRR,Physical Contact,3
+11/01/2024,LIRR,Non Physical Contact,4
+11/01/2024,MNR,Physical Contact,4
+11/01/2024,MNR,Non Physical Contact,4
+11/01/2024,B&T,Physical Contact,0
+11/01/2024,B&T,Non Physical Contact,0
+11/01/2024,MTA HQ,Physical Contact,0
+11/01/2024,MTA HQ,Non Physical Contact,0
+11/01/2024,MTA PD Sworn,Physical Contact,3
+11/01/2024,MTA PD Sworn,Non Physical Contact,0
+12/01/2024,NYCT Subway/SIR,Physical Contact,22
+12/01/2024,NYCT Subway/SIR,Non Physical Contact,30
+12/01/2024,NYCT Bus/MTA Bus,Physical Contact,23
+12/01/2024,NYCT Bus/MTA Bus,Non Physical Contact,80
+12/01/2024,NYCT Other,Physical Contact,1
+12/01/2024,NYCT Other,Non Physical Contact,5
+12/01/2024,LIRR,Physical Contact,6
+12/01/2024,LIRR,Non Physical Contact,5
+12/01/2024,MNR,Physical Contact,6
+12/01/2024,MNR,Non Physical Contact,1
+12/01/2024,B&T,Physical Contact,0
+12/01/2024,B&T,Non Physical Contact,0
+12/01/2024,MTA HQ,Physical Contact,0
+12/01/2024,MTA HQ,Non Physical Contact,0
+12/01/2024,MTA PD Sworn,Physical Contact,6
+12/01/2024,MTA PD Sworn,Non Physical Contact,0
+01/01/2025,NYCT Subway/SIR,Physical Contact,20
+01/01/2025,NYCT Subway/SIR,Non Physical Contact,41
+01/01/2025,NYCT Bus/MTA Bus,Physical Contact,13
+01/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,72
+01/01/2025,NYCT Other,Physical Contact,5
+01/01/2025,NYCT Other,Non Physical Contact,3
+01/01/2025,LIRR,Physical Contact,6
+01/01/2025,LIRR,Non Physical Contact,5
+01/01/2025,MNR,Physical Contact,2
+01/01/2025,MNR,Non Physical Contact,2
+01/01/2025,B&T,Physical Contact,0
+01/01/2025,B&T,Non Physical Contact,1
+01/01/2025,MTA HQ,Physical Contact,0
+01/01/2025,MTA HQ,Non Physical Contact,1
+01/01/2025,MTA PD Sworn,Physical Contact,4
+01/01/2025,MTA PD Sworn,Non Physical Contact,0
+02/01/2025,NYCT Subway/SIR,Physical Contact,11
+02/01/2025,NYCT Subway/SIR,Non Physical Contact,31
+02/01/2025,NYCT Bus/MTA Bus,Physical Contact,21
+02/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,76
+02/01/2025,NYCT Other,Physical Contact,8
+02/01/2025,NYCT Other,Non Physical Contact,12
+02/01/2025,LIRR,Physical Contact,1
+02/01/2025,LIRR,Non Physical Contact,5
+02/01/2025,MNR,Physical Contact,2
+02/01/2025,MNR,Non Physical Contact,4
+02/01/2025,B&T,Physical Contact,0
+02/01/2025,B&T,Non Physical Contact,0
+02/01/2025,MTA HQ,Physical Contact,0
+02/01/2025,MTA HQ,Non Physical Contact,1
+02/01/2025,MTA PD Sworn,Physical Contact,3
+02/01/2025,MTA PD Sworn,Non Physical Contact,0
+03/01/2025,NYCT Subway/SIR,Physical Contact,17
+03/01/2025,NYCT Subway/SIR,Non Physical Contact,38
+03/01/2025,NYCT Bus/MTA Bus,Physical Contact,16
+03/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,72
+03/01/2025,NYCT Other,Physical Contact,8
+03/01/2025,NYCT Other,Non Physical Contact,3
+03/01/2025,LIRR,Physical Contact,4
+03/01/2025,LIRR,Non Physical Contact,9
+03/01/2025,MNR,Physical Contact,6
+03/01/2025,MNR,Non Physical Contact,7
+03/01/2025,B&T,Physical Contact,0
+03/01/2025,B&T,Non Physical Contact,0
+03/01/2025,MTA HQ,Physical Contact,0
+03/01/2025,MTA HQ,Non Physical Contact,1
+03/01/2025,MTA PD Sworn,Physical Contact,11
+03/01/2025,MTA PD Sworn,Non Physical Contact,0
+04/01/2025,NYCT Subway/SIR,Physical Contact,22
+04/01/2025,NYCT Subway/SIR,Non Physical Contact,39
+04/01/2025,NYCT Bus/MTA Bus,Physical Contact,19
+04/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,83
+04/01/2025,NYCT Other,Physical Contact,4
+04/01/2025,NYCT Other,Non Physical Contact,4
+04/01/2025,LIRR,Physical Contact,5
+04/01/2025,LIRR,Non Physical Contact,17
+04/01/2025,MNR,Physical Contact,4
+04/01/2025,MNR,Non Physical Contact,4
+04/01/2025,B&T,Physical Contact,0
+04/01/2025,B&T,Non Physical Contact,0
+04/01/2025,MTA HQ,Physical Contact,0
+04/01/2025,MTA HQ,Non Physical Contact,1
+04/01/2025,MTA PD Sworn,Physical Contact,1
+04/01/2025,MTA PD Sworn,Non Physical Contact,0
+05/01/2025,NYCT Subway/SIR,Physical Contact,22
+05/01/2025,NYCT Subway/SIR,Non Physical Contact,20
+05/01/2025,NYCT Bus/MTA Bus,Physical Contact,24
+05/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,74
+05/01/2025,NYCT Other,Physical Contact,9
+05/01/2025,NYCT Other,Non Physical Contact,4
+05/01/2025,LIRR,Physical Contact,5
+05/01/2025,LIRR,Non Physical Contact,8
+05/01/2025,MNR,Physical Contact,4
+05/01/2025,MNR,Non Physical Contact,10
+05/01/2025,B&T,Physical Contact,0
+05/01/2025,B&T,Non Physical Contact,1
+05/01/2025,MTA HQ,Physical Contact,0
+05/01/2025,MTA HQ,Non Physical Contact,1
+05/01/2025,MTA PD Sworn,Physical Contact,5
+05/01/2025,MTA PD Sworn,Non Physical Contact,0
+06/01/2025,NYCT Subway/SIR,Physical Contact,13
+06/01/2025,NYCT Subway/SIR,Non Physical Contact,27
+06/01/2025,NYCT Bus/MTA Bus,Physical Contact,20
+06/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,48
+06/01/2025,NYCT Other,Physical Contact,1
+06/01/2025,NYCT Other,Non Physical Contact,6
+06/01/2025,LIRR,Physical Contact,4
+06/01/2025,LIRR,Non Physical Contact,7
+06/01/2025,MNR,Physical Contact,6
+06/01/2025,MNR,Non Physical Contact,5
+06/01/2025,B&T,Physical Contact,0
+06/01/2025,B&T,Non Physical Contact,0
+06/01/2025,MTA HQ,Physical Contact,0
+06/01/2025,MTA HQ,Non Physical Contact,3
+06/01/2025,MTA PD Sworn,Physical Contact,3
+06/01/2025,MTA PD Sworn,Non Physical Contact,0
+07/01/2025,NYCT Subway/SIR,Physical Contact,16
+07/01/2025,NYCT Subway/SIR,Non Physical Contact,30
+07/01/2025,NYCT Bus/MTA Bus,Physical Contact,31
+07/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,78
+07/01/2025,NYCT Other,Physical Contact,10
+07/01/2025,NYCT Other,Non Physical Contact,10
+07/01/2025,LIRR,Physical Contact,6
+07/01/2025,LIRR,Non Physical Contact,7
+07/01/2025,MNR,Physical Contact,4
+07/01/2025,MNR,Non Physical Contact,5
+07/01/2025,B&T,Physical Contact,0
+07/01/2025,B&T,Non Physical Contact,0
+07/01/2025,MTA HQ,Physical Contact,0
+07/01/2025,MTA HQ,Non Physical Contact,2
+07/01/2025,MTA PD Sworn,Physical Contact,4
+07/01/2025,MTA PD Sworn,Non Physical Contact,0
+08/01/2025,NYCT Subway/SIR,Physical Contact,14
+08/01/2025,NYCT Subway/SIR,Non Physical Contact,25
+08/01/2025,NYCT Bus/MTA Bus,Physical Contact,22
+08/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,94
+08/01/2025,NYCT Other,Physical Contact,9
+08/01/2025,NYCT Other,Non Physical Contact,3
+08/01/2025,LIRR,Physical Contact,5
+08/01/2025,LIRR,Non Physical Contact,9
+08/01/2025,MNR,Physical Contact,4
+08/01/2025,MNR,Non Physical Contact,6
+08/01/2025,B&T,Physical Contact,0
+08/01/2025,B&T,Non Physical Contact,0
+08/01/2025,MTA HQ,Physical Contact,0
+08/01/2025,MTA HQ,Non Physical Contact,1
+08/01/2025,MTA PD Sworn,Physical Contact,3
+08/01/2025,MTA PD Sworn,Non Physical Contact,0
+09/01/2025,NYCT Subway/SIR,Physical Contact,15
+09/01/2025,NYCT Subway/SIR,Non Physical Contact,26
+09/01/2025,NYCT Bus/MTA Bus,Physical Contact,14
+09/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,97
+09/01/2025,NYCT Other,Physical Contact,0
+09/01/2025,NYCT Other,Non Physical Contact,14
+09/01/2025,LIRR,Physical Contact,2
+09/01/2025,LIRR,Non Physical Contact,11
+09/01/2025,MNR,Physical Contact,5
+09/01/2025,MNR,Non Physical Contact,8
+09/01/2025,B&T,Physical Contact,0
+09/01/2025,B&T,Non Physical Contact,1
+09/01/2025,MTA HQ,Physical Contact,0
+09/01/2025,MTA HQ,Non Physical Contact,2
+09/01/2025,MTA PD Sworn,Physical Contact,1
+09/01/2025,MTA PD Sworn,Non Physical Contact,0
+10/01/2025,NYCT Subway/SIR,Physical Contact,17
+10/01/2025,NYCT Subway/SIR,Non Physical Contact,30
+10/01/2025,NYCT Bus/MTA Bus,Physical Contact,29
+10/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,94
+10/01/2025,NYCT Other,Physical Contact,5
+10/01/2025,NYCT Other,Non Physical Contact,6
+10/01/2025,LIRR,Physical Contact,6
+10/01/2025,LIRR,Non Physical Contact,10
+10/01/2025,MNR,Physical Contact,2
+10/01/2025,MNR,Non Physical Contact,6
+10/01/2025,B&T,Physical Contact,0
+10/01/2025,B&T,Non Physical Contact,0
+10/01/2025,MTA HQ,Physical Contact,0
+10/01/2025,MTA HQ,Non Physical Contact,2
+10/01/2025,MTA PD Sworn,Physical Contact,4
+10/01/2025,MTA PD Sworn,Non Physical Contact,0
+11/01/2025,NYCT Subway/SIR,Physical Contact,6
+11/01/2025,NYCT Subway/SIR,Non Physical Contact,29
+11/01/2025,NYCT Bus/MTA Bus,Physical Contact,23
+11/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,87
+11/01/2025,NYCT Other,Physical Contact,8
+11/01/2025,NYCT Other,Non Physical Contact,3
+11/01/2025,LIRR,Physical Contact,3
+11/01/2025,LIRR,Non Physical Contact,5
+11/01/2025,MNR,Physical Contact,1
+11/01/2025,MNR,Non Physical Contact,2
+11/01/2025,B&T,Physical Contact,1
+11/01/2025,B&T,Non Physical Contact,0
+11/01/2025,MTA HQ,Physical Contact,0
+11/01/2025,MTA HQ,Non Physical Contact,4
+11/01/2025,MTA PD Sworn,Physical Contact,5
+11/01/2025,MTA PD Sworn,Non Physical Contact,0
+12/01/2025,NYCT Subway/SIR,Physical Contact,12
+12/01/2025,NYCT Subway/SIR,Non Physical Contact,37
+12/01/2025,NYCT Bus/MTA Bus,Physical Contact,29
+12/01/2025,NYCT Bus/MTA Bus,Non Physical Contact,84
+12/01/2025,NYCT Other,Physical Contact,3
+12/01/2025,NYCT Other,Non Physical Contact,6
+12/01/2025,LIRR,Physical Contact,5
+12/01/2025,LIRR,Non Physical Contact,9
+12/01/2025,MNR,Physical Contact,2
+12/01/2025,MNR,Non Physical Contact,2
+12/01/2025,B&T,Physical Contact,0
+12/01/2025,B&T,Non Physical Contact,1
+12/01/2025,MTA HQ,Physical Contact,1
+12/01/2025,MTA HQ,Non Physical Contact,2
+12/01/2025,MTA PD Sworn,Physical Contact,3
+12/01/2025,MTA PD Sworn,Non Physical Contact,0
+01/01/2026,NYCT Subway/SIR,Physical Contact,14
+01/01/2026,NYCT Subway/SIR,Non Physical Contact,25
+01/01/2026,NYCT Bus/MTA Bus,Physical Contact,16
+01/01/2026,NYCT Bus/MTA Bus,Non Physical Contact,41
+01/01/2026,NYCT Other,Physical Contact,5
+01/01/2026,NYCT Other,Non Physical Contact,4
+01/01/2026,LIRR,Physical Contact,7
+01/01/2026,LIRR,Non Physical Contact,8
+01/01/2026,MNR,Physical Contact,1
+01/01/2026,MNR,Non Physical Contact,6
+01/01/2026,B&T,Physical Contact,0
+01/01/2026,B&T,Non Physical Contact,0
+01/01/2026,MTA HQ,Physical Contact,0
+01/01/2026,MTA HQ,Non Physical Contact,1
+01/01/2026,MTA PD Sworn,Physical Contact,5
+01/01/2026,MTA PD Sworn,Non Physical Contact,0
+02/01/2026,LIRR,Physical Contact,9
+02/01/2026,LIRR,Non Physical Contact,8
+02/01/2026,MNR,Physical Contact,2
+02/01/2026,MNR,Non Physical Contact,4
+02/01/2026,B&T,Physical Contact,0
+02/01/2026,B&T,Non Physical Contact,0
+02/01/2026,MTA HQ,Physical Contact,0
+02/01/2026,MTA HQ,Non Physical Contact,1
+02/01/2026,MTA PD Sworn,Physical Contact,2
+02/01/2026,MTA PD Sworn,Non Physical Contact,0
